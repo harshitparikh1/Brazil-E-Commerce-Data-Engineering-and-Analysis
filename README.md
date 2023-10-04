@@ -12,6 +12,7 @@ A brief description of the implementation process:
 **Data Architecture Diagram**:</br>
 <img width="1030" alt="image" src="https://github.com/Shrutika-Salian/Brazil-E-Commerce-Data-Engineering-and-Analysis/assets/91072559/48a018cd-1209-4744-8d86-9c402cfdfd02">
 
+# [PowerBI Dashboard]([url](https://app.powerbi.com/groups/me/reports/68da786d-07e6-4e4e-8ae6-271258a9bb71/ReportSection06ae79d9c2c44f2dcca3)https://app.powerbi.com/groups/me/reports/68da786d-07e6-4e4e-8ae6-271258a9bb71/ReportSection06ae79d9c2c44f2dcca3)
 
 
 
